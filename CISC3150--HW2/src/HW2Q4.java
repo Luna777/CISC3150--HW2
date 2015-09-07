@@ -1,4 +1,4 @@
-//learned some example of breaking loops by labels from:
+//learned some examples of breaking loops by labels from:
 //https://docs.oracle.com/javase/tutorial/java/nutsandbolts/branch.html
 
 public class HW2Q4{
